@@ -16,6 +16,14 @@
             "contact": {
                 "web": "https://github.com/StreamerApp/Streamer/issues"
             }
+             "versions": [{
+                "version": "1.2.33",
+				"date": "2024-01-03",
+				"localizedDescription": "Improved the design and layout of the Movie and TV shows details page\r\n Enhanced Trakt integration: You can now sync your favourites with Trakt.tv and access your history, watch list, favourites, and personal lists from a dedicated Trakt section in the favourite page.\r\n Resolved the Airpod audio issue for the Streamer Player\r\n Added custom icons for iOS and tvOS, thanks to E3P\r\n Added translations for Spanish, German, French, and Arabic. The Spanish translations are done by E3P, while the other translations are generated automatically. If you encounter any bug, you can contribute to the translations here: https://crowdin.com/project/streamerapp\r\n Tap on Actors to check out their other movies/tv shows\r\n Added Related movies/tv shows section to the details page\r\n",
+				"downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.33/Streamer-iOS.ipa",
+				"size": 3360000,
+				"minOSVersion": "14.0"
+
         }
     ]
 }
